@@ -1,2 +1,2 @@
-# AdvancedWPFPanel
-Draggable WPF panel
+# Advanced WPF Panel
+- Draggable WPF panel
